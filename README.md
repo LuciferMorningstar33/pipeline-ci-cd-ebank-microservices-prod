@@ -9,8 +9,6 @@ This repository contains the CI/CD pipeline configuration for the eBank microser
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -48,11 +46,3 @@ The pipeline follows a multi-stage approach:
 - Push changes to the repository to trigger the CI/CD pipeline.
 - Monitor the pipeline status on GitHub Actions.
 - Check the deployment status on your Kubernetes cluster.
-
-## Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
